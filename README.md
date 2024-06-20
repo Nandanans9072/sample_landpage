@@ -1,1 +1,1 @@
-A sample land page using Html&css [Click Here](http://127.0.0.1:5500/index.html)
+A sample land page using Html&css [Click Here](file:///C:/Users/nsnan/Desktop/15-days/sample-landpage/index.html)
